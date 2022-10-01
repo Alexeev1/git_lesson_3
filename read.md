@@ -16,4 +16,5 @@ git config --global user.name «Ваше имя английскими букв�
 
 git config --global user.name «Ваше имя английскими буквами»
 
-git config --global user.email ваша почта@example.com
+git config --global user.email ваша почта@example.com 
+текст
