@@ -18,3 +18,4 @@ git config --global user.name «Ваше имя английскими букв�
 
 git config --global user.email ваша почта@example.com 
 текст
+текст 2
